@@ -36,9 +36,6 @@ Contact-Management-System/
 ├── src/
 │   └── main.py
 │
-├── data/
-│   └── project1.txt
-│
 └── README.md
 ```
 
