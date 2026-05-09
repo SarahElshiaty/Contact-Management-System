@@ -39,9 +39,6 @@ Contact-Management-System/
 ├── data/
 │   └── project1.txt
 │
-├── screenshots/
-│   └── output.png
-│
 └── README.md
 ```
 
@@ -65,13 +62,6 @@ python src/main.py
 - Structured menu-driven programming
 - Exception handling
 - Input validation
-
----
-
-## Screenshot
-
-### Program Output
-![Output](screenshots/output.png)
 
 ---
 
