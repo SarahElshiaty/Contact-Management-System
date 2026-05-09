@@ -1,0 +1,12 @@
+S23108366,Shahad Abualkheer,syabualkheer@effat.edu.sa,966531316655
+S23108402,Elan Abudawood,Ebabudawood@effat.edu.sa,966556963311
+S23108531,Lana Alshareef,Lyalshareef@effat.edu.sa,966570730020
+S23108327,Soso,s1so@effat.edu.sa,966546788634
+S23108689,Mashael Saeed,Mmsaeed@effat.edu.sa,966546546136
+S23108410,Osama Alharbi,onalharby@effat.edu.sa,966599810056
+S23108195,Sarah Elshiaty,Skelshiaty@effat.edu.sa,966568132683
+S23108194,Seifeldin Elshiaty,Skhelshiaty@effat.edu.sa,966563805092
+S23108555,Maryam alsarraf,Mmalsarraf@effat.edu.sa,966543309359
+S23108488,Tala Tolimat,tmtolimat@effat.edu.sa,966555402892
+S23108698,Yazan Ahmed,yabeshr@effat.edu.sa,966550754040
+S23103456,Mesho,meshmes@effat.edu.sa,966546546132
